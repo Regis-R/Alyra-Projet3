@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alyra-Pojet3/static/css/main.4f2a4309.chunk.css",
+    "main.js": "/Alyra-Pojet3/static/js/main.99958af2.chunk.js",
+    "main.js.map": "/Alyra-Pojet3/static/js/main.99958af2.chunk.js.map",
+    "runtime-main.js": "/Alyra-Pojet3/static/js/runtime-main.8a3a677a.js",
+    "runtime-main.js.map": "/Alyra-Pojet3/static/js/runtime-main.8a3a677a.js.map",
+    "static/js/2.b3e6a652.chunk.js": "/Alyra-Pojet3/static/js/2.b3e6a652.chunk.js",
+    "static/js/2.b3e6a652.chunk.js.map": "/Alyra-Pojet3/static/js/2.b3e6a652.chunk.js.map",
+    "index.html": "/Alyra-Pojet3/index.html",
+    "static/css/main.4f2a4309.chunk.css.map": "/Alyra-Pojet3/static/css/main.4f2a4309.chunk.css.map",
+    "static/js/2.b3e6a652.chunk.js.LICENSE.txt": "/Alyra-Pojet3/static/js/2.b3e6a652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3a677a.js",
+    "static/js/2.b3e6a652.chunk.js",
+    "static/css/main.4f2a4309.chunk.css",
+    "static/js/main.99958af2.chunk.js"
+  ]
+}
